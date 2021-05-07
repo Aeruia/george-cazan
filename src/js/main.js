@@ -62,7 +62,7 @@ function handleReadMoreButton(e) {
 const pictures = {
     biking: 2,
     cooking: 4,
-    hiking: 5,
+    hiking: 4,
     history: 4
 }
 
